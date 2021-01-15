@@ -8,6 +8,16 @@
 
 **4. LISTA DE COMPONENTES**
 
+|**CANTIDAD**|**ELEMENTO**|
+|:----:|:----:|
+|2|Fuente de voltaje de C.D. |
+|2|Multímetros digitales|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Resistor de 820 Ω|
+|1|Resistor de 470 Ω|
+|1|Protoboard|
+
 **5. EXPLICACIÓN**
 
 **6. CONCLUSIONES**
