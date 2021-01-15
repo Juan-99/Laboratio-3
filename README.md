@@ -2,7 +2,23 @@
 
 **1. OBJETIVOS**
 
+Objetivo general:
+
+-Comprobar experimentalmente el Teorema de Superposición.
+
+Onjetivos específicos:
+
+-Ampliar nuestros conocimientos sobre el teorema de la superposición.
+
+-Identificar conceptos básicos utilizados en la aplicación de este teorema, para mejor entendimiento.
+
+-Aplicar los conocimientos  anteriores para la formación del circuito. 
+
+-Comprobar las condiciones necesarias para que se cumpla el teorema de superposición
+
 **2. MARCO TEÓRICO**
+
+
 
 **3. DIAGRAMAS**
 
