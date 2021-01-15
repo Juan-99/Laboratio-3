@@ -58,7 +58,7 @@ Una vez ya implementado el circuito, medido el voltaje VA, la corriente Ix y hec
 
 ![.](https://github.com/Juan-99/Laboratio-3/blob/main/img/Tabla_Voltajes.png)
 
-Esta tabla nos muestra los resultados recogidos del simulador y los calculos respectivos donde podemos observar el voltaja VA total que fue medido-calculado y los voltajes Va cuando V2 = 0 y V1=0 respectivamente, como ya mostrando en los calculos(ver anexos) podemos concluir que la teoria de superposición ya que los valores practicos de los calculados no varian mucho y su porcentaje de error se acerca a cero.
+Esta tabla nos muestra los resultados recogidos del simulador y los calculos respectivos donde podemos observar el voltaje VA total que fue medido-calculado y los voltajes Va cuando V2 = 0 y V1=0 respectivamente, como ya mostrando en los calculos(ver anexos) podemos concluir que la teoria de superposición se cumple ya que los valores practicos de los calculados no varian mucho y su porcentaje de error se acerca a cero.
 
 **Tabla II.** Medición de corriente aplicando superposición.
 
