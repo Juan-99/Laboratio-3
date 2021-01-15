@@ -60,6 +60,18 @@ Circuito armado con la ayuda del simulador tinkercad muestra el voltaje VA y la 
 
 - La conclusión es que el teorema de superposición es válido Dado que cada fuente independiente funciona, el voltaje entre los dos extremos (o corriente) de un componente en un circuito lineal es la suma algebraica del voltaje (o corriente) que pasa a través del componente.
 
+-En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+
 **7. BIBLIOGRAFÍA**
+
+Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos (Tercera). McGraw-Hill Interamericana
+
+RED, E. (2015, 19 junio). Teorema de superposición. EcuRed. https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9c 
+
+McAllister, W. (n.d.). * Superposición (artículo) | Khan Academy. Retrieved January 15, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
+Obando, L. (2019, November 8). Principio de superposición – Análisis de circuitos eléctricos – dademuchconnection. https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+
+Teorema de superposición para solución de circuitos eléctricos - EcuRed. (n.d.). Retrieved January 15, 2021, from https://www.ecured.cu/Teorema_de_superposición_para_solución_de_circuitos_eléctricos
 
 **8. ANEXOS**
