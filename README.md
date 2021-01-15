@@ -52,6 +52,20 @@ Circuito armado con la ayuda del simulador tinkercad muestra el voltaje VA y la 
 
 **5. EXPLICACIÓN**
 
+Una vez ya implementado el circuito, medido el voltaje VA, la corriente Ix y hecho su respectivo análisis algebraico se procedio a elaborar las siguentes tablas:
+
+**Tabla I.** Medición de voltaje aplicando superposición
+
+![.](https://github.com/Juan-99/Laboratio-3/blob/main/img/Tabla_Voltajes.png)
+
+Esta tabla nos muestra los resultados recogidos del simulador y los calculos respectivos donde podemos observar el voltaja VA total que fue medido-calculado y los voltajes Va cuando V2 = 0 y V1=0 respectivamente, como ya mostrando en los calculos(ver anexos) podemos concluir que la teoria de superposición ya que los valores practicos de los calculados no varian mucho y su porcentaje de error se acerca a cero.
+
+**Tabla II.** Medición de corriente aplicando superposición.
+
+![.](https://github.com/Juan-99/Laboratio-3/blob/main/img/Tabla_Corrientes.png)
+
+La tabla nos muestra los resultando recogidos del simulador y sus calculos respectivos del circuito donde se obser la corriente Ix total , la intensidad Ix cuando V2=0 Y la intensidad Ix cuando v1=0, como ya mostrado en la simulación y los calculos (ver anexos) podemos concluir que la teoria de superposición se cumple ya que los valores practicos de los valores obtenidos analiticamente no varian teniendo un porcentaje de error del cero porciento.
+
 **6. CONCLUSIONES**
 
 - El teorema establece que la influencia de dos o más fuentes de voltaje en la resistencia es igual a la suma de la influencia de cada fuente de voltaje en cada una, y todas las demás fuentes de voltaje se reemplazan con un circuito.
