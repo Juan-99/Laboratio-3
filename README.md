@@ -32,7 +32,7 @@ Circuito armado con la ayuda del simulador tinkercad muestra el voltaje VA y la 
 
 Circuito armado con la ayuda del simulador tinkercad muestra el voltaje VA y la intensidad Ix medidos haciendo cero la fuente de voltaje de 12V.
 
-![.](https://github.com/Juan-99/Laboratio-3/blob/main/img/Cicuito_armadofuente20V.png)
+![.](
 
 Circuito armado con la ayuda del simulador tinkercad muestra el voltaje VA y la intensidad Ix medidos haciendo cero la fuente de voltaje de 20V.
 
