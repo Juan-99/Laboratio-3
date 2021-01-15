@@ -75,3 +75,7 @@ Obando, L. (2019, November 8). Principio de superposición – Análisis de circ
 Teorema de superposición para solución de circuitos eléctricos - EcuRed. (n.d.). Retrieved January 15, 2021, from https://www.ecured.cu/Teorema_de_superposición_para_solución_de_circuitos_eléctricos
 
 **8. ANEXOS**
+
+Los calculos se encuentran anexados en el siguiente URL:
+
+https://github.com/Juan-99/Laboratio-3/blob/main/Anexos/C%C3%A1lculos%20y%20an%C3%A1lisis.pdf
