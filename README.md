@@ -6,7 +6,7 @@ Objetivo general:
 
 - Comprobar experimentalmente el Teorema de Superposición.
 
-Onjetivos específicos:
+Objetivos especificos:
 
 - Ampliar los conocimientos sobre el teorema de la superposición.
 
