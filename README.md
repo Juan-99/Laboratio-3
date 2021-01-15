@@ -74,7 +74,7 @@ La tabla nos muestra los resultando recogidos del simulador y sus calculos respe
 
 - La conclusión es que el teorema de superposición es válido Dado que cada fuente independiente funciona, el voltaje entre los dos extremos (o corriente) de un componente en un circuito lineal es la suma algebraica del voltaje (o corriente) que pasa a través del componente.
 
--En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+- En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.).
 
 **7. BIBLIOGRAFÍA**
 
