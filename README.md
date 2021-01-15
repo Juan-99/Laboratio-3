@@ -18,9 +18,11 @@ Onjetivos específicos:
 
 **2. MARCO TEÓRICO**
 
-
+![.](https://github.com/Juan-99/Laboratio-3/blob/main/img/Mapa_Superposicion.png)
 
 **3. DIAGRAMAS**
+
+
 
 **4. LISTA DE COMPONENTES**
 
